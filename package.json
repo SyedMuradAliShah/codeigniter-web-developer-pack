@@ -1,0 +1,39 @@
+{
+    "name": "codeigniter-web-developer-pack",
+    "displayName": "Codeigniter Web Developer Pack",
+    "description": "It contains all extensions that a codeigniter developer need.",
+    "version": "0.0.1",
+    "publisher": "SyedMuradAliShah",
+    "repository": "https://github.com/SyedMuradAliShah/codeigniter-web-developer-pack",
+    "author": "Syed Murad Ali Shah <murad@receivemail.org> (http://focdownloads.blogspot.com/)",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "formulahendry.auto-rename-tag",  
+        "HookyQR.beautify", 
+        "aaron-bond.better-comments", 
+        "wcwhitehead.bootstrap-3-snippets", 
+        "thekalinga.bootstrap4-vscode", 
+        "HansUXdev.bootstrap5-snippets",
+        "Zaczero.bootstrap-v4-snippets",
+        "Gangai-Cloudi5-publisher.fire-snippets", 
+        "Anish-M.ci-snippets2", 
+        "SyedMuradAliShah.codeigniter-3-files-creator", 
+        "walkme.CodeIgniter-extension-pack", 
+        "abusaidm.html-snippets",  
+        "Hridoy.jquery-snippets", 
+        "donjayamanne.jquerysnippets", 
+        "felixfbecker.php-pack", 
+        "felixfbecker.php-debug", 
+        "bmewburn.vscode-intelephense-client", 
+        "small.php-ci", 
+        "MehediDracula.php-namespace-resolver", 
+        "valeryanm.vscode-phpsab", 
+        "akhail.save-typing", 
+        "DotJoshJohnson.xml"
+    ]
+}
