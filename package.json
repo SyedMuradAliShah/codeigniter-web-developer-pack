@@ -3,7 +3,7 @@
     "displayName": "Codeigniter Web Developer Pack",
     "description": "It contains all extensions that a codeigniter developer need.",
     "icon": "assets/icon.png",
-    "version": "0.0.8",
+    "version": "0.0.2",
     "publisher": "SyedMuradAliShah",
     "repository": "https://github.com/SyedMuradAliShah/codeigniter-web-developer-pack",
     "author": "Syed Murad Ali Shah <murad@receivemail.org> (http://focdownloads.blogspot.com/)",
